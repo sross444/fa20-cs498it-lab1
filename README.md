@@ -5,3 +5,6 @@ untrasonic.ino   - this is the program for my CAN BUS + arduino plus connections
 project1_ADAS.py    -  this is the python3 script that is executed on the ADAS unit
 
 project1_headUnit.py  -- this is the python script used on the headunit to connect and display the image detections.
+
+----- 10/20 ---- 
+For convenience, added my PDF report (also turned in yesterday on coursera), and a zoomed in topology for easier reading.  (was already in pdf)
